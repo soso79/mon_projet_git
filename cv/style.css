@@ -1,0 +1,52 @@
+body
+{
+	background-image: url("images/fond-site.jpg");
+	
+}
+
+@font-face{
+	font-family:'Boulevard Saint Denis';
+	src:url('font/Boulevard Saint Denis.ttf');
+}
+
+
+{
+	font-family: 'Boulevard Saint Denis',sans-serif;
+	font-size:5.5em;
+}
+
+
+
+
+#couleur
+{
+	color:red;
+
+}
+#titre
+{
+	font-family: 'Boulevard Saint Denis',sans-serif;
+	font-size:3.5em;
+	text-align: center;
+	border:4px red solid;
+	border-radius: 18px;
+	box-shadow: 8px 8px 20px black;
+}
+#conteneur
+{
+
+	display: flex ;
+	justify-content:space-around;
+	border-left: 10px  red solid;
+	text-align: center;
+	
+	
+
+
+	
+	
+
+	
+
+
+}
