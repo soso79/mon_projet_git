@@ -1,0 +1,2 @@
+Bonjour 
+Ceci est mon premier projet git ,vous trouverez ci joint l élaboration de mon cv a travers différents commits qui détailleront les différentes modifications afin d obtenir le cv final merci et bonne correction
